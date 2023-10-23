@@ -1,0 +1,10 @@
+- CPU架构：
+	- X86（或X86-64）
+		- Intel、AMD
+	- [[ARM]]
+		- Cortex M
+		- Cortex R
+		- Cortex A
+			- 骁龙，麒麟，天玑，A16
+	- RISC-V
+	- MIPS
